@@ -23,7 +23,7 @@ Jueves 3:00pm - 5:00pm.  AULA A204
 *Página web del curso:*
 http://jcunisabana.github.io/lye
 
-## Objetivos esperados
+## Objetivos esperados de aprendizaje
 
 1.  Identificar el o los puntos principales de un texto y las razones ofrecidas en su favor.
 
@@ -56,10 +56,11 @@ Posibilidades alternativas y responsabilidad moral
 Razones para actuar 
 *(6 semanas)*
 #### *Módulo 3 - Escribir: Ensayo argumentativo* 
-<span style="font-variant:small-caps;">Filosofía de la mente</span> 
+<span style="font-variant:small-caps;">Temas varios</span> 
 La mente cartesiana y su crítica. 
 Pensar lento, pensar rápido 
 Inteligencia artificial 
+Temas seleccionados con base en los intereses de los estudiantes
 (*6 semanas*)
 
 ## Evaluación 

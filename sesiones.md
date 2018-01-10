@@ -25,9 +25,9 @@ Lectura grupal de *Instrucciones*
 ### Semana 2 
 #### Leer para mapear
 * ¿Qué tipo de texto es este? ¿Es una carta, un artículo académico, o un capítulo de un libro? ¿Es una fuente principal o secundaria?
-* ¿Cuál es el tema general del texto? ¿Cuál es el punto principal del texto?
 * ¿Qué puede esperar del texto con base en el título?
-Si el texto está dividido en secciones, ¿qué le dicen los encabezados de las secciones? Si no tienen nombres, ¿qué título le podría poner a cada sección?
+* ¿Cuál es el tema general del texto? ¿Cuál es el punto principal del texto?
+* Si el texto está dividido en secciones, ¿qué le dicen los encabezados de las secciones? Si no tienen nombres, ¿qué título le podría poner a cada sección?
 * Si el texto tiene bibliografía, ¿qué le dice ésta sobre el texto?
 
 #### Leer para comprender
