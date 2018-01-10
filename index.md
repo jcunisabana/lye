@@ -64,7 +64,10 @@ Inteligencia artificial
 
 ## Evaluación 
 
-Se evaluará a los estudiantes por medio de trabajos sobre formatos internacionales de bibliografía,  protocolos, relatorías, y un ensayo argumentativo. La distribución porcentual es la siguiente.
+Se evaluará a los estudiantes por medio de trabajos sobre formatos internacionales de bibliografía,  protocolos, relatorías, y un ensayo argumentativo. 
+
+<p style="color:white; background-color:Tomato; padding: 5px; ">**Toda** entrega tarde injustificada verá la nota disminuida en 0.5 unidades por cada día tarde.</p>
+
 
 | Corte | Actividad | Valor Porcentual|
 | ------------- |-------------| -----|
@@ -72,7 +75,7 @@ Se evaluará a los estudiantes por medio de trabajos sobre formatos internaciona
 | 1 | Reseña    |   15% |
 | 2 | Protocolo    |   15% |
 | 2 | Relatoría | 15% |
-| 3 | Primera versión del ensayo argumentativo    |   10% |
+| 3 | Abstract del ensayo argumentativo    |   10% |
 | 3 | Ensayo argumentativo | 30% |
 
 
@@ -97,6 +100,5 @@ Para cada lectura asignada, desde el segundo corte, los estudiantes deben escrib
 
 Un texto argumentativo de 4-5 páginas en donde se defienda una tesis. Se debe hacer uso de literatura secundaria de acuerdo con las normas de citación. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
 
-<p style="color:white; background-color:Tomato; padding: 5px; ">**Toda** entrega tarde injustificada verá la nota disminuida en 0.5 unidades por cada día tarde.</p>
 
 
