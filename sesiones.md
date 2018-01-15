@@ -12,9 +12,10 @@
 ### Semana 1
 
 
-Presentaciones personales. 
-Presentación general del curso y de la página web. 
-Lectura grupal de *Instrucciones*
+<iframe width="100%" height="400" align="middle" src="../lye/1.html" border="0"></iframe>
+[Presentación en ventana completa](../lye/1.html)
+
+
 
 <div style="color:white; background-color:TOMATO; padding: 5px; width:70%; ">
 <b>Para la próxima semana:</b> 
@@ -23,6 +24,8 @@ Lectura grupal de *Instrucciones*
 
 
 ### Semana 2 
+<!--
+
 #### Leer para mapear
 * ¿Qué tipo de texto es este? ¿Es una carta, un artículo académico, o un capítulo de un libro? ¿Es una fuente principal o secundaria?
 * ¿Qué puede esperar del texto con base en el título?
@@ -52,6 +55,7 @@ Lectura grupal de *Instrucciones*
 <b>Para la próxima semana:</b> 
 <ul> <li>Leer: Nussbaum, M. (2010). *Sin ánimo de lucro: Por qué la democracia necesita de las humanidades*. Buenos Aires, Argentina: Katz. Capítulos 1 y 2</li>
 <li>Escribir: Un resumen de la lectura siguiendo lo indicado en *Intrucciones para leer un texto filosófico*</li></ul></div>
+-->
 
 ### Semana 3 
 
