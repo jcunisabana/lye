@@ -20,7 +20,7 @@
 <div style="color:white; background-color:TOMATO; padding: 5px; width:70%; ">
 <b>Para la próxima semana:</b> 
 <ul> <li>Leer: Hoyos, L. E. (2003). "Filosofía, filosofías, filosofar". En L. E. Hoyos (Ed.), * Lecciones de filosofia *. Bogotá, Colombia: Universidad Nacional de Colombia.</li>
-<li>Escribir: Un resumen de la lectura siguiendo lo indicado en *Intrucciones para leer un texto filosófico*</li></ul></div>
+<li>Escribir: Un resumen de la lectura después de haber seguido lo indicado en *Intrucciones para leer un texto filosófico*</li></ul></div>
 
 
 ### Semana 2 

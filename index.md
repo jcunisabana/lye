@@ -51,7 +51,7 @@ Zuleta: Sobre la lectura
 *(5 semanas)* 
 #### *Módulo 2 - Escribir: Relatorías y protocolos*
 <span style="font-variant:small-caps;">Filosofía moral</span> 
-Emoción y razón en el razonamiento moral 
+Emoción y razón en el juicio moral 
 Posibilidades alternativas y responsabilidad moral 
 Razones para actuar 
 *(6 semanas)*
@@ -84,20 +84,27 @@ Se evaluará a los estudiantes por medio de trabajos sobre formatos internaciona
 Citar en formato MLA: 3 libros, 3 artículos y 3 elementos en línea. 
 
 #### Reseña  
+Extensión: entre 1500 y 2500 palabras.
 
 Resumen argumentativo: debe presentar el punto central del texto, explicarlo y señalar las razones principales ofrecidas en su favor. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
 
 #### Protocolo  
+Extensión: entre 1500 y 2500 palabras.
+
 Recuento de una sesión. Debe incluir los puntos centrales tanto de la relatoría como de la discusión. Deber procurar seguir las mismas instrucciones dadas para la reseña de un texto escrito. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
 
-#### Relatoría  
+#### Relatoría
+Extensión: entre 1500 y 2500 palabras.
+
 Escrito para ser presentado oralmente en clase. Debe incluir una reseña del texto asignado y presentar puntos para la discusión. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
 
 #### Controles de lectura
+Extensión: entre 400 y 1000 palabras.
 
 Para cada lectura asignada, desde el segundo corte, los estudiantes deben escribir un texto corto con la tesis principal, tres afirmaciones/presuposiciones del texto y tres preguntas/desafíos al texto. Los controles deberán ser subidos a la plataforma virtual a más tardar el *viernes a las 7 de la mañana*. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
 
 #### Ensayo argumentativo
+Extensión: entre 400 y 500 palabras.
 
 Un texto argumentativo de 4-5 páginas en donde se defienda una tesis. Se debe hacer uso de literatura secundaria de acuerdo con las normas de citación. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
 
