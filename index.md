@@ -101,7 +101,7 @@ Escrito para ser presentado oralmente en clase. Debe incluir una reseña del tex
 #### Controles de lectura
 Extensión: entre 400 y 1000 palabras.
 
-Para cada lectura asignada, desde el segundo corte, los estudiantes deben escribir un texto corto con la tesis principal, tres afirmaciones/presuposiciones del texto y tres preguntas/desafíos al texto. Los controles deberán ser subidos a la plataforma virtual a más tardar el *viernes a las 7 de la mañana*. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
+Para cada lectura asignada, desde el segundo corte, los estudiantes deben escribir un texto corto con la tesis principal, tres afirmaciones/presuposiciones del texto y tres preguntas/desafíos al texto. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
 
 #### Ensayo argumentativo
 Extensión: entre 400 y 500 palabras.
