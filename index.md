@@ -17,6 +17,12 @@ La lectura y escritura de textos filosóficos es la base de la labor filosófica
 *Correo electrónico:*
 juan.espejo1@unisabana.edu.co
 
+*Monitor*
+Miguel Ángel Prieto 
+
+*Correo electrónico*:
+miguelprca@unisabana.edu.co
+
 *Horario y salón:*
 Jueves 3:00pm - 5:00pm.  AULA A204
 
