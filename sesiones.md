@@ -24,7 +24,8 @@
 
 
 ### Semana 2 
-<!--
+<iframe width="100%" height="400" align="middle" src="../lye/2.html" border="0"></iframe>
+[Presentación en ventana completa](../lye/2.html)
 
 #### Leer para mapear
 * ¿Qué tipo de texto es este? ¿Es una carta, un artículo académico, o un capítulo de un libro? ¿Es una fuente principal o secundaria?
@@ -54,8 +55,8 @@
 <div style="color:white; background-color:TOMATO; padding: 5px; width:70%; ">
 <b>Para la próxima semana:</b> 
 <ul> <li>Leer: Nussbaum, M. (2010). *Sin ánimo de lucro: Por qué la democracia necesita de las humanidades*. Buenos Aires, Argentina: Katz. Capítulos 1 y 2</li>
-<li>Escribir: Un resumen de la lectura siguiendo lo indicado en *Intrucciones para leer un texto filosófico*</li></ul></div>
--->
+<li>Escribir: Un resumen de <b>cada capítulo</b> en donde se presente tesis principal de cada capítulo, 3 razones ofrecidas en favor de la tesis y 3 preguntas/desafíos al texto. Entre 400 y 500 palabras
+    </li></ul></div>
 
 ### Semana 3 
 
