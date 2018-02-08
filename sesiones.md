@@ -60,6 +60,41 @@
 
 ### Semana 3 
 
+<iframe width="100%" height="400" align="middle" src="../lye/3.html" border="0"></iframe>
+[Presentación en ventana completa](../lye/3.html)
+
+#### Leer para mapear
+* ¿Qué tipo de texto es este? ¿Es una carta, un artículo académico, o un capítulo de un libro? ¿Es una fuente principal o secundaria?
+* ¿Qué puede esperar del texto con base en el título?
+* ¿Cuál es el tema general del texto? ¿Cuál es el punto principal del texto?
+* Si el texto está dividido en secciones, ¿qué le dicen los encabezados de las secciones? Si no tienen nombres, ¿qué título le podría poner a cada sección?
+* Si el texto tiene bibliografía, ¿qué le dice ésta sobre el texto?
+
+#### Leer para comprender
+* ¿Sabe *exáctamente* lo que dice el autor?
+* ¿Ha releido los apartados que le parecían confusos al principio?
+* ¿Hay todavía pasajes que, a pesar de sus mayores esfuerzos, todavía no logra entender?
+* ¿Puede ver el bosque compuesto por los diferentes puntos realizados en el texto?
+* ¿Entiende el texto como una unidad?
+
+#### Leer para evaluar
+* ¿Ha evaluado si cada una de las conclusiones del texto está bien defendida?
+* ¿Ha pensado cómo se podría mejorar el texto?
+¿Podría dar razones para puntos que el texto no defiende? ¿Podría fortalecer el argumento?
+* ¿Lo convence el texto? ¿Por qué?
+* ¿Se puede construir un contraejemplo al punto principal del autor? ¿Un contraejemplo a un punto marginal?
+* ¿Puede explicar en qué cree que se equivoca o es especialmente acertado el autor?
+* ¿Ha pensado en la forma en que se puede responder a las preguntas y críticas que le ha hecho al texto?
+
+
+<div style="color:white; background-color:TOMATO; padding: 5px; width:70%; ">
+<b>Para la próxima semana:</b> 
+<ul> <li>Leer: Un artículo en alguna de las revistas de estudiantes de filosofía. </li>        
+<li>Escribir: Un resumen del artículo que seleccionaron en donde se presente la tesis principal, 3 razones ofrecidas en favor de la tesis. Esto es para ser presentado en <b>TRES MINUTOS</b> durante la próxima clase.
+    </li>
+<li>Investigar: Como citar en formato MLA.</li>        
+<li>Escribir: Citar en formato MLA: 3 libros, 3 artículos y 3 elementos en línea.</li></ul></div>
+
 
 ### Semana 4 
 
