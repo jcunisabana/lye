@@ -98,6 +98,20 @@
 
 ### Semana 4 
 
+Presentaciones de 3 minutos. 
+
+
+<div style="color:white; background-color:TOMATO; padding: 5px; width:70%; ">
+<b>Para la próxima semana:</b> 
+<ul>
+
+<li>Investigar: Como citar en formato MLA.</li>        
+<li>Escribir: Citar en formato MLA: 3 libros, 3 artículos y 3 elementos en línea.</li>
+<li>Escribir: Un resumen de <b>alguna de las lecturas</b> en donde se presente tesis principal de cada capítulo, 3 razones ofrecidas en favor de la tesis y 3 preguntas/desafíos al texto. Entre 400 y 500 palabras</li>
+
+
+</ul></div>
+
 ### Semana 5
 
 --- 
