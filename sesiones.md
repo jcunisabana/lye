@@ -118,11 +118,31 @@ Presentaciones de 3 minutos de un ensayo de alguna de las revistas de estudiante
     * Aplicación de la rúbrica. 
         * Co-evaluación
         * Auto-evaluación
-1. Asignación de relatorías y protocolos del próximo corte.   
+1. Asignación de relatorías y protocolos del próximo corte. 
+    1. María Herrera-lima (Conocimiento moral)
+        *
+        *
+    1. Olbeth Hansberg (Emoción y moralidad)
+        *
+        *
+    1. Harry Frankfurt (Responsabilidad y laternativas)
+        *
+        *
+        *
+    1. Donald Davidson  (Razones y causas de la acción)
+        *
+        *
+        *
+    1. Christine Korsgaard (Actuar por una razón)
+        *
+        *
+        *
+        *
 1. Resumen de alguna de las lecturas 
     * Explicación de la rúbrica.
     * Co-evaluación.
-    
+   
+  
 <div style="color:white; background-color:TOMATO; padding: 5px; width:70%; ">
 <b>Para la próxima semana:</b> 
 <ul>
