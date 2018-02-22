@@ -98,7 +98,7 @@
 
 ### Semana 4 
 
-Presentaciones de 3 minutos. 
+Presentaciones de 3 minutos de un ensayo de alguna de las revistas de estudiantes. 
 
 
 <div style="color:white; background-color:TOMATO; padding: 5px; width:70%; ">
@@ -113,6 +113,22 @@ Presentaciones de 3 minutos.
 </ul></div>
 
 ### Semana 5
+1. Trabajo citación MLA. 
+    * Diseño de rúbrica.
+    * Aplicación de la rúbrica. 
+        * Co-evaluación
+        * Auto-evaluación
+1. Asignación de relatorías y protocolos del próximo corte.   
+1. Resumen de alguna de las lecturas 
+    * Explicación de la rúbrica.
+    * Co-evaluación.
+    
+<div style="color:white; background-color:TOMATO; padding: 5px; width:70%; ">
+<b>Para la próxima semana:</b> 
+<ul>
+<li>Leer: María Herrera Lima. "Conocimiento y razón en la argumentación moral".</li>
+
+</ul></div>
 
 --- 
 
