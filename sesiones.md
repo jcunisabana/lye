@@ -125,11 +125,11 @@ Presentaciones de 3 minutos de un ensayo de alguna de las revistas de estudiante
     1. Olbeth Hansberg (Emoción y moralidad)
         *
         *
-    1. Harry Frankfurt (Responsabilidad y laternativas)
+    1. Harry Frankfurt (Responsabilidad y alternativas)
         *
         *
         *
-    1. Donald Davidson  (Razones y causas de la acción)
+    1. Donald Davidson  (Razones y causas de unba acción)
         *
         *
         *
