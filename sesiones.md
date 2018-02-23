@@ -120,24 +120,24 @@ Presentaciones de 3 minutos de un ensayo de alguna de las revistas de estudiante
         * Auto-evaluación
 1. Asignación de relatorías y protocolos del próximo corte. 
     1. María Herrera-lima (Conocimiento moral)
-        *
-        *
+        * Michelle 
+        * Karen
     1. Olbeth Hansberg (Emoción y moralidad)
-        *
-        *
+        * Ángela
+        * Juan Pablo
     1. Harry Frankfurt (Responsabilidad y alternativas)
-        *
-        *
-        *
+        * Manuela
+        * Daniel
+        * Kenyer
     1. Donald Davidson  (Razones y causas de unba acción)
-        *
-        *
-        *
+        * Simon 
+        * Santiago
+        * Katherine
     1. Christine Korsgaard (Actuar por una razón)
-        *
-        *
-        *
-        *
+        * Natalia
+        * Natalia
+        * Alyson
+        * Sofía
 1. Resumen de alguna de las lecturas 
     * Explicación de la rúbrica.
     * Co-evaluación.
