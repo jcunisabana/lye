@@ -137,7 +137,6 @@ Presentaciones de 3 minutos de un ensayo de alguna de las revistas de estudiante
         * Natalia
         * Natalia
         * Alyson
-        * Sofía
 1. Resumen de alguna de las lecturas 
     * Explicación de la rúbrica.
     * Co-evaluación.
