@@ -1,15 +1,15 @@
 ---
-title: "Lectura y escritura de textos filos<c3><b3>ficos"
+title: "Lectura y escritura de textos filosóficos"
 author: ''
 date: ''
 output:
-  pdf_document:
-    toc: no
   html_document:
     theme: yeti
     toc: yes
     toc_depth: 4
     toc_float: yes
+  pdf_document:
+    toc: no
 ---
 
 ## Descripción del curso
@@ -26,14 +26,14 @@ La lectura y escritura de textos filosóficos es la base de la labor filosófica
 *Correo electrónico:*
 juan.espejo1@unisabana.edu.co
 
-*Monitora*:
-Tatiana Gomez 
+<!-- *Monitora*: -->
+<!-- Tatiana Gomez  -->
 
-*Correo electrónico*:
-tatianagosa@unisabana.edu.co
+<!-- *Correo electrónico*: -->
+<!-- tatianagosa@unisabana.edu.co -->
 
 *Horario y salón:*
-Lunes 11:00pm - 1:00pm.  AULA Atelier 104
+Lunes 11:00pm - 1:00pm. Atelier 104
 
 *Página web del curso:*
 http://jcunisabana.github.io/lye
