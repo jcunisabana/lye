@@ -1,11 +1,22 @@
-[gimmick:theme](united)
-
-# Lectura y escritura de textos filosóficos 
-
+---
+title: "Lectura y escritura de textos filos<c3><b3>ficos"
+author: ''
+date: ''
+output:
+  pdf_document:
+    toc: no
+  html_document:
+    theme: yeti
+    toc: yes
+    toc_depth: 4
+    toc_float: yes
+---
 
 ## Descripción del curso
+
+<img align="right" src="img/cuaderno.jpg" style="width:350;height:350px;">
+
 La lectura y escritura de textos filosóficos es la base de la labor filosófica. Este curso es una propedéutica a la escritura y lectura de textos filosóficos. El resto de su carrera en filosofía, puede decirse, consistirá en una profundización y afinamiento de esta herramientas. Para ello, se leerá, discutirá y escribirá sobre tres temas generales: 1) la educación y la lectura, 2) temas particulares en filosofía moral, y 3) temas particulares en filosofía de la mente y otros temas de interés de los estudiantes. Estos temas son una excusa ejercer la lectura y escritura sobre temas filosóficos y nuestro enfoque particular seran las habilidades en lectura y escritura. Se espera que el estudiante logre leer de manera cuidadosa un texto filosófico y que sea capaz de producir reseñas, relatorías, protocolos y ensayos sobre temas propios de la filosofía.
-![a](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bücherstapel_und_ein_aufgeschlagenes_Buch_%2838004505976%29.jpg/1280px-Bücherstapel_und_ein_aufgeschlagenes_Buch_%2838004505976%29.jpg "Por Arntor CC BY-SA 4.0, via Wikimedia Commons")
 
 
 
@@ -15,19 +26,20 @@ La lectura y escritura de textos filosóficos es la base de la labor filosófica
 *Correo electrónico:*
 juan.espejo1@unisabana.edu.co
 
-*Monitor*
-Miguel Ángel Prieto 
+*Monitora*:
+Tatiana Gomez 
 
 *Correo electrónico*:
-miguelprca@unisabana.edu.co
+tatianagosa@unisabana.edu.co
 
 *Horario y salón:*
-Jueves 3:00pm - 5:00pm.  AULA A204
+Lunes 11:00pm - 1:00pm.  AULA Atelier 104
 
 *Página web del curso:*
 http://jcunisabana.github.io/lye
 
 ## Objetivos esperados de aprendizaje
+
 
 1.  Identificar el o los puntos principales de un texto y las razones ofrecidas en su favor.
 
@@ -43,35 +55,44 @@ http://jcunisabana.github.io/lye
 
 1.  Emplear la gramática, la puntuación y la ortografía adecuada para construir un texto coherente.
 
-1.  Saber usar uno de los diferentes estilos de citación reconocidos en la comunidad académica (APA, Chicago, MLA, etc.) de manera consistente.
+1.  Usar uno de los diferentes estilos de citación reconocidos en la comunidad académica (APA, Chicago, MLA, etc.) de manera consistente.
 
-## Contenido temático 
+## Contenido temático 
 
 #### *Módulo 1: Leer y reseñar*
 <span style="font-variant:small-caps;">Presentación general del curso</span>
-Hoyos: Filosofía, filosofías, filosofar.
-Nussbaum: Sobre la crisis de la educación.
-Zuleta: Sobre la lectura 
+
+- Hoyos: Filosofía, filosofías, filosofar.
+
+- Nussbaum: Sobre la crisis de la educación.
+
+- Reglas APA, MLA y Chicago
+
 *(5 semanas)* 
+
 #### *Módulo 2 - Escribir: Relatorías y protocolos*
+
 <span style="font-variant:small-caps;">Filosofía moral</span> 
-Emoción y razón en el juicio moral 
-Posibilidades alternativas y responsabilidad moral 
-Razones para actuar 
+
+- Emoción y razón en el juicio moral  (Hansberg, Lima)
+- Posibilidades alternativas y responsabilidad moral (Frankfurt)
+- Razones para actuar (Davidson, Korsgaard)
+
 *(6 semanas)*
+
 #### *Módulo 3 - Escribir: Ensayo argumentativo* 
 <span style="font-variant:small-caps;">Temas varios</span> 
-La mente cartesiana y su crítica. 
-Pensar lento, pensar rápido 
-Inteligencia artificial 
-Temas seleccionados con base en los intereses de los estudiantes
+
+- Pensar lento, pensar rápido (Kahneman)
+- Temas seleccionados con base en los intereses de los estudiantes
+
 (*6 semanas*)
 
 ## Evaluación 
 
 Se evaluará a los estudiantes por medio de trabajos sobre formatos internacionales de bibliografía,  protocolos, relatorías, y un ensayo argumentativo. 
 
-<p style="color:white; background-color:Tomato; padding: 5px; ">**Toda** entrega tarde injustificada verá la nota disminuida en 0.5 unidades por cada día tarde.</p>
+<p style="color:white; background-color:indigo; padding: 5px; ">**Toda** entrega tarde injustificada verá la nota disminuida en 0.5 unidades por cada día tarde.</p>
 
 
 | Corte | Actividad | Valor Porcentual|
@@ -85,7 +106,7 @@ Se evaluará a los estudiantes por medio de trabajos sobre formatos internaciona
 
 
 #### Trabajo bibliografía
-Citar en formato MLA: 3 libros, 3 artículos y 3 elementos en línea. 
+Citar en formato MLA/APA/Chicago: 3 libros, 3 artículos y 3 entradas en un blog.
 
 #### Reseña  
 Extensión: entre 1500 y 2500 palabras.
@@ -93,7 +114,7 @@ Extensión: entre 1500 y 2500 palabras.
 Resumen argumentativo: debe presentar el punto central del texto, explicarlo y señalar las razones principales ofrecidas en su favor. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
 
 #### Protocolo  
-Extensión: entre 1500 y 2500 palabras.
+Extensión: entre 500 y 1000 palabras.
 
 Recuento de una sesión. Debe incluir los puntos centrales tanto de la relatoría como de la discusión. Deber procurar seguir las mismas instrucciones dadas para la reseña de un texto escrito. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
 
@@ -103,14 +124,40 @@ Extensión: entre 1500 y 2500 palabras.
 Escrito para ser presentado oralmente en clase. Debe incluir una reseña del texto asignado y presentar puntos para la discusión. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
 
 #### Controles de lectura
-Extensión: entre 400 y 1000 palabras.
+Extensión: entre 400 y 500 palabras.
 
 Para cada lectura asignada, desde el segundo corte, los estudiantes deben escribir un texto corto con la tesis principal, tres afirmaciones/presuposiciones del texto y tres preguntas/desafíos al texto. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
 
 #### Ensayo argumentativo
-Extensión: entre 400 y 500 palabras.
+Extensión: entre 1500 y 2500 palabras.
 
-Un texto argumentativo de 4-5 páginas en donde se defienda una tesis. Se debe hacer uso de literatura secundaria de acuerdo con las normas de citación. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
+Un texto argumentativo en donde se defienda una tesis. Se debe hacer uso de literatura secundaria de acuerdo con las normas de citación. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
 
 
+
+## Bibliografía
+
+- Davidson, D. (1995). _Ensayos sobre acciones y sucesos_ (O. Hansberg, J. A. Robles & M. Valdés, Trad.). Barcelona, España: Crítica.
+
+- Descartes, R. (2009). _Meditaciones acerca de la Filosofía Primera._ (J. A. Díaz, Trad.). Bogotá, Colombia: Universidad Nacional de Colombia.
+
+- Frankfurt, H. G. (2006). _La importancia de lo que nos preocupa: ensayos filosóficos_. Buenos Aires, Argentina: Katz Editores.
+
+- Hansberg, O. (1996). Emociones morales. En O. Guariglia (Ed.), _Cuestiones morales_. Madrid, España: Trotta.
+
+- Hoyos, L. E. (2003). Filosofía, filosofías, filosofar En L. E. Hoyos (Ed.), _Lecciones de filosofia_. Bogotá, Colombia: Universidad Nacional de Colombia.
+
+- Kahneman, D. (2012). _Pensar rápido, pensar despacio_. Barcelona, España: Debate.
+
+- Korsgaard, C. M. (2017). Actuar por una razón. _Anuario Filosófico_, _50_(1).
+
+- Lima, M. H. (1996). Conocimiento y razón en la argumentación moral. En O. Guariglia (Ed.), _Cuestiones morales_. Madrid, España: Trotta.
+
+- McCorduck, P. (1999). Inteligencia artificial: un apercu. En _El nuevo debate sobre la inteligencia artificial_. Barcelona, España: Gedisa.
+
+- Nussbaum, M. (2010). _Sin ánimo de lucro: Por qué la democracia necesita de las humanidades._ Buenos Aires, Argentina: Katz.
+
+- Ryle, G. (2005). _El concepto de lo mental_ (E. Rabossi, Trad.). Barcelona, España: Paidós.
+
+- Searle, J. (1994). Mentes, cerebros y programas. En M. Boden (Ed.), _Filosofía de la inteligencia artificial_. México: Fondo de cultura económica.
 
