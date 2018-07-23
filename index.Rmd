@@ -6,14 +6,14 @@ header-includes:
   - \usepackage{fontspec}
   - \setmainfont{Adobe Jenson Pro}  
 output:
-  pdf_document:
-    toc: no
-    latex_engine: xelatex
   html_document:
     theme: yeti
     toc: yes
     toc_depth: 4
     toc_float: yes
+  pdf_document:
+    toc: no
+    latex_engine: xelatex
 ---
 
 ## Descripción del curso
@@ -133,7 +133,11 @@ Extensión: entre 1500 y 2500 palabras.
 
 Un texto argumentativo en donde se defienda una tesis. Se debe hacer uso de literatura secundaria de acuerdo con las normas de citación. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
 
+## Presentaciones
 
+####Semana 1
+<iframe width="100%" height="400" align="middle" src="1.html" border="0"></iframe>
+<a href="1.html">Presentación en pantalla completa</a>
 
 ## Bibliografía
 
