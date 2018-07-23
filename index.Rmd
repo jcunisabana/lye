@@ -2,14 +2,18 @@
 title: "Lectura y escritura de textos filosóficos"
 author: ''
 date: ''
+header-includes:
+  - \usepackage{fontspec}
+  - \setmainfont{Adobe Jenson Pro}  
 output:
+  pdf_document:
+    toc: no
+    latex_engine: xelatex
   html_document:
     theme: yeti
     toc: yes
     toc_depth: 4
     toc_float: yes
-  pdf_document:
-    toc: no
 ---
 
 ## Descripción del curso
@@ -26,11 +30,11 @@ La lectura y escritura de textos filosóficos es la base de la labor filosófica
 *Correo electrónico:*
 juan.espejo1@unisabana.edu.co
 
-<!-- *Monitora*: -->
-<!-- Tatiana Gomez  -->
+*Monitora*:
+Tatiana Gomez
 
-<!-- *Correo electrónico*: -->
-<!-- tatianagosa@unisabana.edu.co -->
+*Correo electrónico*:
+tatianagosa@unisabana.edu.co
 
 *Horario y salón:*
 Lunes 11:00pm - 1:00pm. Atelier 104
@@ -96,7 +100,7 @@ Se evaluará a los estudiantes por medio de trabajos sobre formatos internaciona
 
 
 | Corte | Actividad | Valor Porcentual|
-| ------------- |-------------| -----|
+|:-------------:|:-------------:|:-----:|
 | 1 | Trabajo bibliografía | 15% |
 | 1 | Reseña    |   15% |
 | 2 | Protocolo    |   15% |
@@ -123,10 +127,6 @@ Extensión: entre 1500 y 2500 palabras.
 
 Escrito para ser presentado oralmente en clase. Debe incluir una reseña del texto asignado y presentar puntos para la discusión. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
 
-#### Controles de lectura
-Extensión: entre 400 y 500 palabras.
-
-Para cada lectura asignada, desde el segundo corte, los estudiantes deben escribir un texto corto con la tesis principal, tres afirmaciones/presuposiciones del texto y tres preguntas/desafíos al texto. Todos los estudiantes empiezan con 5.0 en esta nota; por cada vez que no se participe dentro del rango de tiempo especificado, la nota será disminuida de acuerdo con los siguientes parámetros: primera vez: -0.5; segunda vez: -1.0; tercera vez: -1.5; cuarta vez: -2.0.
 
 #### Ensayo argumentativo
 Extensión: entre 1500 y 2500 palabras.
@@ -137,27 +137,27 @@ Un texto argumentativo en donde se defienda una tesis. Se debe hacer uso de lite
 
 ## Bibliografía
 
-- Davidson, D. (1995). _Ensayos sobre acciones y sucesos_ (O. Hansberg, J. A. Robles & M. Valdés, Trad.). Barcelona, España: Crítica.
+- Davidson, D. (1995). _Ensayos sobre acciones y sucesos_ (O. Hansberg, J. A. Robles & M. Valdés, Trad.). Barcelona, España: Crítica. pp. 17-36.
 
 - Descartes, R. (2009). _Meditaciones acerca de la Filosofía Primera._ (J. A. Díaz, Trad.). Bogotá, Colombia: Universidad Nacional de Colombia.
 
-- Frankfurt, H. G. (2006). _La importancia de lo que nos preocupa: ensayos filosóficos_. Buenos Aires, Argentina: Katz Editores.
+- Frankfurt, H. G. (2006). _La importancia de lo que nos preocupa: ensayos filosóficos_. Buenos Aires, Argentina: Katz Editores. 
 
-- Hansberg, O. (1996). Emociones morales. En O. Guariglia (Ed.), _Cuestiones morales_. Madrid, España: Trotta.
+- Hansberg, O. (1996). Emociones morales. En O. Guariglia (Ed.), _Cuestiones morales_. Madrid, España: Trotta. pp. 107-127.
 
-- Hoyos, L. E. (2003). Filosofía, filosofías, filosofar En L. E. Hoyos (Ed.), _Lecciones de filosofia_. Bogotá, Colombia: Universidad Nacional de Colombia.
+- Hoyos, L. E. (2003). Filosofía, filosofías, filosofar En L. E. Hoyos (Ed.), _Lecciones de filosofia_. Bogotá, Colombia: Universidad Nacional de Colombia. pp. 13-34.
 
 - Kahneman, D. (2012). _Pensar rápido, pensar despacio_. Barcelona, España: Debate.
 
-- Korsgaard, C. M. (2017). Actuar por una razón. _Anuario Filosófico_, _50_(1).
+- Korsgaard, C. M. (2017). Actuar por una razón. _Anuario Filosófico_, _50_(1). pp. 87-118
 
-- Lima, M. H. (1996). Conocimiento y razón en la argumentación moral. En O. Guariglia (Ed.), _Cuestiones morales_. Madrid, España: Trotta.
+- Lima, M. H. (1996). Conocimiento y razón en la argumentación moral. En O. Guariglia (Ed.), _Cuestiones morales_. Madrid, España: Trotta. pp. 89-106.
 
-- McCorduck, P. (1999). Inteligencia artificial: un apercu. En _El nuevo debate sobre la inteligencia artificial_. Barcelona, España: Gedisa.
+- McCorduck, P. (1999). Inteligencia artificial: un apercu. En _El nuevo debate sobre la inteligencia artificial_. Barcelona, España: Gedisa. pp. 81-101.
 
 - Nussbaum, M. (2010). _Sin ánimo de lucro: Por qué la democracia necesita de las humanidades._ Buenos Aires, Argentina: Katz.
 
 - Ryle, G. (2005). _El concepto de lo mental_ (E. Rabossi, Trad.). Barcelona, España: Paidós.
 
-- Searle, J. (1994). Mentes, cerebros y programas. En M. Boden (Ed.), _Filosofía de la inteligencia artificial_. México: Fondo de cultura económica.
+- Searle, J. (1994). Mentes, cerebros y programas. En M. Boden (Ed.), _Filosofía de la inteligencia artificial_. México: Fondo de cultura económica. pp. 82-104.
 
