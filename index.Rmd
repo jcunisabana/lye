@@ -6,14 +6,14 @@ header-includes:
   - \usepackage{fontspec}
   - \setmainfont{Adobe Jenson Pro}  
 output:
+  pdf_document:
+    toc: no
+    latex_engine: xelatex
   html_document:
     theme: yeti
     toc: yes
     toc_depth: 4
     toc_float: yes
-  pdf_document:
-    toc: no
-    latex_engine: xelatex
 ---
 
 ## Descripción del curso
