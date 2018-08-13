@@ -144,7 +144,7 @@ Extensión: entre 1500 y 2500 palabras.
 
 Un texto argumentativo en donde se defienda una tesis. Se debe hacer uso de literatura secundaria de acuerdo con las normas de citación. En clase se ofrecerán las instrucciones más precisas cuando llegue el momento.
 
-## Presentaciones
+## Plan semanal
 
 ####Semana 1
 <iframe width="100%" height="400" align="middle" src="1.html" border="0"></iframe>
@@ -158,6 +158,13 @@ Un texto argumentativo en donde se defienda una tesis. Se debe hacer uso de lite
 ####Semana 3
 <iframe width="100%" height="400" align="middle" src="3.html" border="0"></iframe>
 <a href="3.html">Presentación en pantalla completa</a>
+
+####Semana 4
+- Presentación de los resúmenes de los artículos de revistas de estudiantes.
+- Discusión: Capítulo 2 de Nussbaum. 
+- Organización del segundo módulo del curso.
+- Bibliografía APA.
+- Tareas: Re-escribir **una** de las reseñas de los textos de Hoyos y Nussbaum.
 
 ## Links de utilidad
 
